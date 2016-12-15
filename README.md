@@ -3,7 +3,7 @@
 [![Build Status](https://mobilesdk.ci.data.com/view/Trial/job/coveralls/badge/icon)](https://mobilesdk.ci.data.com/view/Trial/job/coveralls/) [![Coverage Status](https://coveralls.io/repos/github/helenren/coveralls-gradle-plugin/badge.svg?branch=origin%2Fmaster)](https://coveralls.io/github/helenren/coveralls-gradle-plugin?branch=origin%2Fmaster)
 > Send coverage data to coveralls.io.
 
-## Usage
+## Usage Instruction
 
 ### Use with *cobertura* reporter
 
